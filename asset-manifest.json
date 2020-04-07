@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iamarun0246/To_Do_App_in_React/static/css/main.48817f16.chunk.css",
+    "main.js": "/iamarun0246/To_Do_App_in_React/static/js/main.82d2b4a8.chunk.js",
+    "main.js.map": "/iamarun0246/To_Do_App_in_React/static/js/main.82d2b4a8.chunk.js.map",
+    "runtime-main.js": "/iamarun0246/To_Do_App_in_React/static/js/runtime-main.27fd914d.js",
+    "runtime-main.js.map": "/iamarun0246/To_Do_App_in_React/static/js/runtime-main.27fd914d.js.map",
+    "static/js/2.3dbd836e.chunk.js": "/iamarun0246/To_Do_App_in_React/static/js/2.3dbd836e.chunk.js",
+    "static/js/2.3dbd836e.chunk.js.map": "/iamarun0246/To_Do_App_in_React/static/js/2.3dbd836e.chunk.js.map",
+    "index.html": "/iamarun0246/To_Do_App_in_React/index.html",
+    "precache-manifest.9e0f2cbef114d8f33c20f7694f6cb30c.js": "/iamarun0246/To_Do_App_in_React/precache-manifest.9e0f2cbef114d8f33c20f7694f6cb30c.js",
+    "service-worker.js": "/iamarun0246/To_Do_App_in_React/service-worker.js",
+    "static/css/main.48817f16.chunk.css.map": "/iamarun0246/To_Do_App_in_React/static/css/main.48817f16.chunk.css.map",
+    "static/js/2.3dbd836e.chunk.js.LICENSE.txt": "/iamarun0246/To_Do_App_in_React/static/js/2.3dbd836e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27fd914d.js",
+    "static/js/2.3dbd836e.chunk.js",
+    "static/css/main.48817f16.chunk.css",
+    "static/js/main.82d2b4a8.chunk.js"
+  ]
+}
